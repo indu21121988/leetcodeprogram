@@ -1,8 +1,7 @@
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
 
-public class longestSubstring {
+public class LongestSubstring {
     /*
     Given a string s, find the length of the longest substring without duplicate characters.
 
